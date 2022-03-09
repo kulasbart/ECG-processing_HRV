@@ -74,7 +74,7 @@ def frequency_domain(rri, fs):
     
 #%%
 
-df = pd.read_csv('') # drop file
+df = pd.read_csv(r'/Volumes/ExFAT-EMTEC/VNS/VNS-sampled/006/VNS_ON.csv') # drop file
 
 # convert from ms to s
 df['RRI'] = df['RRI']*1000
