@@ -1,8 +1,12 @@
 # ECG Signal Processing & HRV analysis
 
-Guide to the basics of working with ECG signals, R-R peak detection, fitting functions
+Guide to the basics of signal processing and analysis with raw ECG:
+- data transforms
+- R-R peak detection 
+- fitting functions
+- time & frequency domain metrics
 
-Also provided are metrics for time-series ECG data, including heart rate variability periodogram analysis using welch's method 
+Provide a few metrics for looking at trends in time-series ECG data, including heart rate variability periodogram analysis using welch's method 
 
 # BRS-regression 
 
